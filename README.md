@@ -151,7 +151,7 @@ Execute research workflow.
 ## Troubleshooting
 
 - **CORS Errors**: Ensure backend CORS is configured for frontend origin
-- **API Key Issues**: Verify your Cerebras API key is valid if you don't have a key get a free one at https://cloud.cerebras.ai/
+- **API Key Issues**: Verify your Cerebras API key is valid
 - **Connection Errors**: Ensure backend is running before starting frontend
 - **Port Conflicts**: Change ports in `main.py` (backend) or `vite.config.js` (frontend) if needed
 
